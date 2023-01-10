@@ -1,4 +1,4 @@
-import turtle,time,sys,os,datetime,webbrowser
+import time,sys,os,datetime,webbrowser
 bg = turtle.Screen()
 bg.setup(width = 1280, height = 720)
 bg.bgpic('background.gif')
